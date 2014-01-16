@@ -12,21 +12,21 @@ Menus, Sidebars, Footers... basically she makes sure the post you're reading is 
 
 Currently supports:
 
-Deadspin
-Gawker
-Gizmodo
-io9
-Jalopnik
-Jezebel
-Kotaku
-Lifehacker
-PetaPixel
-Engadget
-blog.bufferapp
-Elite Daily
-Macrumors
-The Verge
-WoW Insider
+- Deadspin
+- Gawker
+- Gizmodo
+- io9
+- Jalopnik
+- Jezebel
+- Kotaku
+- Lifehacker
+- PetaPixel
+- Engadget
+- blog.bufferapp
+- Elite Daily
+- Macrumors
+- The Verge
+- WoW Insider
 
 
 ###Coming Features:
@@ -36,13 +36,13 @@ My next goal is to fix this. Preferably by using the xml rss feed instead of act
 
 Next up:
 
-Smashing magazine
-CSS Tricks
-Arstechnica
-blag.xkcd
-any blogspot blog
-thoughtcatalog
-any wordpress blog
-Mashable
+- Smashing magazine
+- CSS Tricks
+- Arstechnica
+- blag.xkcd
+- any blogspot blog
+- thoughtcatalog
+- any wordpress blog
+- Mashable
 
 
