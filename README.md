@@ -1,11 +1,11 @@
 stripper
 ========
 
-###Stripper
+###Strippr
 
-Stripper is a single executable javascript file and chrome extension, that will strip away all distractions from a page for easy reading or printing.
+Strippr is a single executable javascript file and chrome extension, that will strip away all distractions from a page for easy reading or printing.
 
-###What does Stripper do?
+###What does Strippr do?
 
 She strips! 
 Menus, Sidebars, Footers... basically she makes sure the post you're reading is all that you need to focus on. Happy Reading. :)
